@@ -22,3 +22,11 @@ Upon running the file qa-system.py, the user is prompted with a greeting and a b
 
 
 ## Algorithm 
+
+Description
+
+Enter the question
+Tokenize the question and extract the entities, nouns or verbs
+Apply the extracted object into a search field on wikipedia
+Parse the summary on wikipedia, locating the entity, noun and verb token associated with the question
+If succesfully located the provided tokens, print the associated entity object, along with the verb placement as scripted. 
