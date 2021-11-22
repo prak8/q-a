@@ -31,3 +31,9 @@ Description
 * Apply the extracted object into a search field on wikipedia
 * Parse the summary on wikipedia, locating the entity, noun and verb token associated with the question
 * If succesfully with locating the provided tokens, print the associated entity object, along with the verb placement as scripted.
+
+
+A flowdiagram of the QA system
+
+
+<img width="1261" alt="Screen Shot 2021-11-22 at 1 44 28 PM" src="https://user-images.githubusercontent.com/90986120/142917702-1fa8bc97-3dcb-4678-826f-2efdce0c4626.png">
