@@ -17,5 +17,8 @@ Figure B shows the system repsonse and the actual response
 
 Usage Instruction
 
-Upon running the file qa-system.py, the user is prompted with a greeting and a brief description of type of question 
+Upon running the file qa-system.py, the user is prompted with a greeting and a brief description of the type of questions recognized by the system. Next, the user is allowed to type in their question. As the system responds with an answer, the script of the entire exchange between the user and the system for a particular session can be accessed as a text file on the same directory as the original file. If the system is unable to decipher the content of the question, it will respond with a 'sorry' message. Finally, by typing in 'exit', the user can end a session. 
+
+
+
 ## Algorithm 
