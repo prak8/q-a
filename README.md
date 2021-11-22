@@ -13,6 +13,7 @@ The objective of this assignment involves building a question and answer system.
 ## An actual example of program output and usage
 
 Figure A below shows the log output of the question answer system
+
 Figure B shows the system repsonse and the actual response
 
 Usage Instruction
@@ -26,7 +27,7 @@ Upon running the file qa-system.py, the user is prompted with a greeting and a b
 Description
 
 Enter the question
-Tokenize the question and extract the entities, nouns or verbs
+Tokenize the question and extract the entities, nouns and verbs
 Apply the extracted object into a search field on wikipedia
 Parse the summary on wikipedia, locating the entity, noun and verb token associated with the question
-If succesfully located the provided tokens, print the associated entity object, along with the verb placement as scripted. 
+If succesfully with locating the provided tokens, print the associated entity object, along with the verb placement as scripted.
