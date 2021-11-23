@@ -17,7 +17,13 @@ The objective of this assignment involves building a question and answer system.
 
 Figure A below shows the log output of the question answer system
 
+
+<img width="1437" alt="Screen Shot 2021-11-23 at 5 57 48 PM" src="https://user-images.githubusercontent.com/90986120/143142091-d520f6f8-36ee-4355-b057-da8ab3fb97b9.png">
+
 Figure B shows the system repsonse and the actual response
+
+<img width="1259" alt="Screen Shot 2021-11-23 at 5 58 56 PM" src="https://user-images.githubusercontent.com/90986120/143142173-bb4fe011-8703-4d38-923b-5d8718e90095.png">
+
 
 Usage Instruction
 
