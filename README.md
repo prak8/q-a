@@ -10,7 +10,8 @@ Author: Team 1 - Alice Chen, Hrishikesh Karambelkar, Prakriti Panday, Sean Park
 
 The objective of this assignment involves building a question and answer system. Similar to a chatbot, this system will take a question as an input and provide back a one sentence answer. The questions have to be either who/what/where/when questions. In that way, the answer returned will simply respond to the specific detail requested in the question. The system developed utlizes a wikipedia package from python that facilitates with searching an answer to the factual question. This system incorporates chatbot style system entailing re expressions and token extraction, along with named entity recognition for deciphering the content of the question and finally text summarization in order to give back a user friendly response.
 
-** Python suggest multiple downloads.
+** Python will suggest multiple packages to be downloaded from the nltk librabry in order for the "Where" questions to successfully run.The packages are as follows:  averaged_perceptron_tagger, maxent_ne_chunker and words and can be downloaded as nltk.download('insertpackagenamehere'). 
+
 
 ## An actual example of program output and usage
 
@@ -32,7 +33,7 @@ Description
 * Tokenize the question and extract the entities, nouns and verbs
 * Apply the extracted object into a search field on wikipedia
 * Parse the summary on wikipedia, locating the entity, noun and verb token associated with the question
-* If succesful with locating the provided tokens, print the associated entity object, along with the verb placement as scripted.
+* If succesfully with locating the provided tokens, print the associated entity object, along with the verb placement as scripted.
 
 
 A flowdiagram of the QA system
