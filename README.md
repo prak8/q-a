@@ -32,7 +32,7 @@ Description
 * Tokenize the question and extract the entities, nouns and verbs
 * Apply the extracted object into a search field on wikipedia
 * Parse the summary on wikipedia, locating the entity, noun and verb token associated with the question
-* If succesfully with locating the provided tokens, print the associated entity object, along with the verb placement as scripted.
+* If succesful with locating the provided tokens, print the associated entity object, along with the verb placement as scripted.
 
 
 A flowdiagram of the QA system
