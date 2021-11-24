@@ -1,0 +1,109 @@
+############ WHO ############  (2 CORRECT)
+1. 
+Question: Who founded Microsoft?
+Correct Answer: Bill Gates and Paul Allen founded Microsoft. 
+My System Answer: Bill Gates and Paul Allen founded Microsoft. (CORRECT)
+
+2. 
+Question: Who directed Titanic?
+Correct Answer: James Cameron directed Titanic. 
+My System Answer: James Cameron directed Titanic. (CORRECT)
+
+3. 
+Question: Who invented airplanes?
+Correct Answer: Wright brothers invented airplanes.
+My System Answer: Wright invented airplanes. (INCORRECT)
+
+4. 
+Question: Who is the current president of the United States?
+Correct Answer: Joe Biden is the current president of the United States. 
+My System Answer: The United States of America (U.S.A. or USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. (INCORRECT)
+
+5. 
+Question: Who is Donald Trump?
+Correct Answer: Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. 
+My System Answer: Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. (INCORRECT)
+
+
+
+############ WHERE ############   (2 CORRECT) 
+1.
+Question: Where is the Met Gala held?
+Correct Answer: Met is held in New York.
+My System Answer: Met is held in New York. (CORRECT)
+
+2. 
+Question: Where is Lilongwe?
+Correct Answer: Lilongwe is in Malawi.
+My System Answer: Lilongwe is in Us, Malawi. (INCORRECT)
+
+3. 
+Question: Where is Moscow?
+Correct Answer: Moscow is in Russia.  
+My System Answer: Moscow is in Moscow. (INCORRECT)
+
+4. 
+Question: Where is Mount Rushmore?
+Correct Answer: Mount Rushmore is South Dakota, United States
+My System Answer: Mount Rushmore is in Keystone, South. (INCORRECT)
+
+5. 
+Question: Where is Harvard University?
+Correct Answer: Harvard University is in Cambridge, Massachusetts.
+My System Answer: Harvard University is in Cambridge, Massachusetts. (CORRECT)
+
+
+
+############ WHAT ############  (3 CORRECT)  
+1. 
+Question: What is the Declaration of Independence?
+Correct Answer: The United States Declaration of Independence is the pronouncement adopted by the Second Continental Congress meeting in Philadelphia, Pennsylvania, on July 4, 1776.
+My System Answer: The United States Declaration of Independence is the pronouncement adopted by the Second Continental Congress meeting in Philadelphia, Pennsylvania, on July 4, 1776. (CORRECT)
+
+2. 
+Question: What is the largest continent?
+Correct Answer: The largest continent is Asia.
+My System Answer: A continent is one of several large landmasses. (INCORRECT)
+
+3. 
+Question: What is Juneteenth?
+Correct Answer: Juneteenth is a federal holiday in the United States commemorating the emancipation of African-American slaves. 
+My System Answer: Sorry, I can't answer that. (INCORRECT)
+
+4. 
+Question: What is Natural Language Processing?
+Correct Answer: Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. 
+My System Answer: Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. (CORRECT) 
+
+5. 
+Question: What is iPhone?
+Correct Answer: The iPhone is a line of smartphones designed and marketed by Apple Inc. that use Apple's iOS mobile operating system.
+My System Answer: The iPhone is a line of smartphones designed and marketed by Apple Inc. that use Apple's iOS mobile operating system. (CORRECT)
+
+
+
+############ WHEN ############  (3 CORRECT) 
+1. 
+Question: When was Michelle Obama born?
+Correct Answer: Michelle Obama was born on January 17, 1964.
+My System Answer: Michelle Obama was born on January 17, 1964. (CORRECT)
+
+2. 
+Question: When was American Independence Day?
+Correct Answer: American Independence Day was  on July 4, 1776.
+My System Answer: American Independence Day was  on July 4, 1776. (CORRECT)
+
+3. 
+Question: When did World War I end?
+Correct Answer: World War I ended on November 11, 1918.  
+My System Answer: Sorry, I can't answer that. (INCORRECT)
+
+4. 
+Question: When did Joe Paterno die?
+Correct Answer: Joe Paterno died on January 22, 2012. 
+My System Answer: Sorry, I can't answer that. (INCORRECT)
+
+5. 
+Question: When was Microsoft founded? 
+Correct Answer: Microsoft was founded on April 4, 1975.
+My System Answer: Microsoft was founded on April 4, 1975. (CORRECT)
